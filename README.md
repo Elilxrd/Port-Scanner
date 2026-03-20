@@ -15,8 +15,21 @@ This project demonstrates basic network reconnaissance and Python scripting for 
 
 ## 🚀 Usage
 1. Run the scanner:
-```bash
+``bash
 python scanner.py
+
+Enter:
+
+Target IP or domain
+
+Port range to scan
+
+
+📌 Example Output
+[+] Port 22 is OPEN
+[+] Port 80 is OPEN
+[+] Port 443 is OPEN
+
 
 🧠 What I Learned
 
